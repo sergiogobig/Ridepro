@@ -1,0 +1,77 @@
+.navbar-ul{
+	line-height: 26px;
+	padding-top: 3rem;
+}
+.navbar-item-img {
+	width: 24px;
+	position: absolute;
+	left: 4px;
+	top: 5px;
+}
+
+.clase4{
+	display: table;
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	left: 8rem;
+}
+.clase3 {
+	height: 500px
+}
+.clase2{
+	top: 5px;
+	max-height: 500px !important;
+	min-height: 500px !important
+}
+.clase1 {
+	height: 505px;
+}
+.navegacion {
+	background-color: white;
+  height: 5rem;
+}
+
+.margennavegacion {
+	margin: 0px 3rem 0px 3rem;
+}
+
+.paralelogramo {
+     -webkit-transform: skew(-8deg);
+     -moz-transform: skew(-8deg);
+     -ms-transform: skew(-8deg);
+     -o-transform: skew(-8deg);
+     transform: skew(-8deg);
+     font-family: fuenteride;
+     width: 195px;
+     text-align: right;
+     border: solid black 1px;
+     margin-right: 0.5rem;
+     letter-spacing: 5.5px;
+}
+
+
+.paralelogramo2 {
+     -webkit-transform: skew(-8deg);
+     -moz-transform: skew(-8deg);
+     -ms-transform: skew(-8deg);
+     -o-transform: skew(-8deg);
+     transform: skew(-8deg);
+     margin-right: 0.5rem;
+
+}
+
+@font-face {
+	font-family: "fuenteride";
+	src: url("fonts/roboto/Gobold light.otf")
+}
+
+@font-face {
+     font-family: "fuenteride2";
+     src: url("fonts/roboto/Gobold Italic.ttf")
+}
+
+@font-face {
+     font-family: "parrafos";
+     src: url("fonts/roboto/Helvetica-Oblique.otf")
+}

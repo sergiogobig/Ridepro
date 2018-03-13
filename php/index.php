@@ -2,8 +2,8 @@
 <?php include("secciones/navbar.php"); ?>
 
 <!-- Este es el slider del inicio -->
-<section class="clase1" id="page-top" >
-   <div class="carousel carousel-slider center clase2" data-indicators="true">
+<section class="slider-intro" id="page-top" >
+   <div class="carousel carousel-slider center slider-top" data-indicators="true">
       <div class="carousel-item black-text" href="#one!">
          <div class="parallax-container clase3">
             <div class="clase4">

@@ -1,3 +1,164 @@
+#cursos-descripcion .card-content {
+	margin-top: 11rem;
+}
+
+.titulos-cursos p {
+	position: relative;
+	z-index: 1;
+	text-transform: uppercase;
+	display: inline;
+  padding: 5px 0px 5px 7px;
+	letter-spacing: 1px;
+	font-size: 15px;
+}
+
+.titulo-curso {
+	-webkit-clip-path: polygon(5% 0, 100% 0, 95% 100%, 0 100%);
+	clip-path: polygon(5% 0, 100% 0, 95% 100%, 0 100%);
+	background-color: red;
+	color: white;
+	position: relative;
+	z-index: 1;
+	text-transform: uppercase;
+	display: inline;
+	padding: 5px 10px 5px 20px;
+	letter-spacing: 5px;
+  font-size: 15px;
+	font-family: fuenteride2, sans-serif, serif;
+}
+
+.ubicacion1 {
+	top: 65px;
+	left: -3rem;
+}
+
+.ubicacion2 {
+	top: 50px;
+	left: 16rem;
+}
+
+.ubicacion3 {
+	top: 65px;
+	left: 43rem;
+}
+
+.forma-curso .card-content {
+    padding: 4px;
+    border-radius: 0 0 2px 2px;
+}
+
+.forma-curso .card-action {
+    padding: 4px;
+    border-radius: 0 0 2px 2px;
+}
+
+.forma-curso a {
+	color: #fff!important;
+	margin-right: 5px!important;
+	text-transform: uppercase;
+	font-size: 10px!important;
+	letter-spacing: 2px!important;
+}
+
+
+.ul-inline {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+.ul-inline li {
+	display: inline;
+}
+.forma-curso {
+	-webkit-clip-path: polygon(100% 0, 100% 93%, 93% 100%, 0 100%, 0 0);
+	clip-path: polygon(100% 0, 100% 93%, 93% 100%, 0 100%, 0 0);
+	height: auto;
+	background: #d1d1d1;
+	/* margin: 0px 0px 0px 4px; */
+	padding: 10px;
+}
+
+.campo-imagen {
+	position: relative;
+	right: -7rem;
+	top: -3rem;
+	float: right;
+}
+
+
+.ub-1 {
+	margin-top: 67px;
+	left: 4rem;
+}
+
+
+.ub-2 {
+	margin-top: 67px;
+	left: 44rem;
+}
+
+.ub-3 {
+	margin-top: 67px;
+	left: 83rem;
+}
+
+/* pantallas mas pequeñas que */
+@media (max-width: 1900px) {
+	.ubicacion2 {
+	  top: 65px;
+	  left: 2rem;
+	}
+	.ubicacion3 {
+	  top: 65px;
+	  left: 15rem;
+	}
+	.ub-2 {
+	    margin-top: 67px;
+	    left: 29rem;
+	}
+	.ub-3 {
+	    margin-top: 67px;
+	    left: 54rem;
+	}
+}
+/*  */
+
+.subtitulo-card {
+	position: absolute;
+	z-index: 1;
+	display: -webkit-box;
+}
+
+.subtitulo-card ul {
+	margin-left: 5px;
+}
+
+.subtitulo-card ul li h5 {
+	color: #fff;
+	text-transform: uppercase;
+	font-size: 14px;
+	font-style: italic;
+	font-family: fuenteride2, sans-serif, serif;
+	letter-spacing: 1px;
+}
+
+.llanta-marca {
+  height: 9rem;
+  width: 9rem;
+	background-image: url('http://via.placeholder.com/135x135');
+}
+.section-subheading {
+	font-family: fuenteride2, sans-serif, serif;
+	color: red;
+}
+
+.section-subheading h5 {
+	letter-spacing: 5px;
+  font-size: 22px;
+}
+.text-section {
+	margin-top:10px;
+}
 .navbar-ul{
 	line-height: 26px;
 	padding-top: 3rem;
@@ -19,12 +180,12 @@
 .clase3 {
 	height: 500px
 }
-.clase2{
-	top: 5px;
+.slider-top{
+	top: 18px!important;
 	max-height: 500px !important;
-	min-height: 500px !important
+  min-height: 500px !important;
 }
-.clase1 {
+.slider-intro {
 	height: 505px;
 }
 .navegacion {
@@ -63,15 +224,15 @@
 
 @font-face {
 	font-family: "fuenteride";
-	src: url("fonts/roboto/Gobold light.otf")
+	src: url("../fonts/roboto/Gobold light.otf")
 }
 
 @font-face {
      font-family: "fuenteride2";
-     src: url("fonts/roboto/Gobold Italic.ttf")
+     src: url("../fonts/roboto/Gobold Italic.ttf")
 }
 
 @font-face {
      font-family: "parrafos";
-     src: url("fonts/roboto/Helvetica-Oblique.otf")
+     src: url("../fonts/roboto/Helvetica-Oblique.otf")
 }

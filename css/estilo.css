@@ -2,6 +2,33 @@
 	margin-top: 11rem;
 }
 
+.emailtelefono {
+	font-family: fuenteride2;
+	text-align: center;
+	color: white;
+	font-size: 0.9rem;
+}
+
+.quitarmargensup {
+	margin-top: 0px;
+}
+
+.margensup-2{
+	margin-top: -2px;
+}
+
+.margensup3 {
+	margin-top: 3px;
+}
+
+.quitarmargeninf {
+	margin-bottom: 0px;
+}
+
+.fondogris {
+	background-color: #333333;
+}
+
 .titulos-cursos p {
 	position: relative;
 	z-index: 1;

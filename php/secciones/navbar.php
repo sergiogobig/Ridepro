@@ -7,31 +7,21 @@
         <ul id="nav-mobile" class="right hide-on-med-and-down black-text navbar-ul">
            <li class="paralelogramo">
              <img class="navbar-item-img" src="../imagenes/RP.png" alt="">
-             <a class="black-text" href="index.php#page-top">HOME</a>
+             <a class="black-text" href="#page-top">HOME</a>
            </li>
            <li class="paralelogramo">
              <img class="navbar-item-img" src="../imagenes/RP.png" alt="">
-             <a class="black-text" href="index.php#cursos">CURSOS</a>
+             <a class="black-text" href="#cursos">CURSOS</a>
            </li>
            <li class="paralelogramo">
              <img class="navbar-item-img" src="../imagenes/RP.png" alt="">
-             <a class="black-text" href="index.php#eventos">EVENTOS</a>
+             <a class="black-text" href="#eventos">EVENTOS</a>
            </li>
            <li class="paralelogramo">
              <img class="navbar-item-img" src="../imagenes/RP.png" alt="">
-             <a class="black-text" href="index.php#equipo">EQUIPO</a>
+             <a class="black-text" href="#equipo">EQUIPO</a>
            </li>
         </ul>
      </div>
   </nav>
 </div>
-
-  <!-- <nav>
-    <div class="nav-wrapper">
-      <a href="#!" class="brand-logo">Logo</a>
-      <ul class="right hide-on-med-and-down">
-        <li><a href="sass.html">Sass</a></li>
-        <li><a href="badges.html">Components</a></li>
-      </ul>
-    </div>
-  </nav> -->

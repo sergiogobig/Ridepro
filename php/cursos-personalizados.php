@@ -1,129 +1,55 @@
+<!-- Aqui el head -->
 <?php include("secciones/head.php"); ?>
+<!-- Aqui la barra de navegacion -->
 <?php include("secciones/navbar.php"); ?>
-<section class="slider-intro" id="page-top" >
-   <div class="carousel carousel-slider center slider-top" data-indicators="true">
-      <div class="carousel-item black-text" href="#one!">
-         <div class="parallax-container">
-            <div class="parallax">
-               <img width="100%" src="http://via.placeholder.com/1280x500">
+
+ <!-- Content -->
+
+
+
+<?php include("secciones/cursos/seccion1.php"); ?>
+<?php include("secciones/cursos/seccion2.php"); ?>
+
+<section id="">
+   <div class="container">
+      <div class="row">
+         <div class="col m12 forma-curso" style="padding: 25px 10px 0px 32px;">
+           <div class="row">
+             <div class="col m2">
+               <img width="110%" src="http://via.placeholder.com/150x180">  
+             </div>
+             <div class="col m10">
+              <p class="titulo-curso">Mejore sus<span> habilidades mecánicas</spam></p>
+              <p>Bacon ipsum dolor amet ball tip spare ribs jowl porchetta fatback venison swine pork tri-tip. Biltong ground round rump pancetta drumstick. Beef ribs buffalo cupim landjaeger meatball shoulder pork chop ball tip alcatra bacon ground round shankle chuck. Corned beef pork salami porchetta rump pork chop spare ribs prosciutto shoulder swine pig. Leberkas capicola frankfurter, buffalo ribeye picanha fatback salami. Spare ribs jerky venison sausage shoulder landjaeger.</p>
             </div>
-         </div>
-      </div>
-   </div>
-   <div class="container">
-      <div class="row">
-         <div class="col m12 text-section">
-            <p>Bacon ipsum dolor amet meatloaf cupim shoulder, pancetta shank turkey pastrami flank short loin leberkas sausage spare ribs t-bone. Rump landjaeger t-bone brisket beef. Pork loin tongue doner strip steak, filet mignon biltong chuck tail pork belly turkey ham shoulder. Swine prosciutto andouille hamburger, ribeye pork chop doner turkey chicken.</p>
-         </div>
-      </div>
-   </div>
-</section>
-<section id="cursos-descripcion">
-   <div class="container">
-      <div class="row">
-         <div class="col m12 center-align section-subheading">
-            <h5>Bacon ipsum dolor amet meatloaf cupim shoulder, pancetta</h5>
-         </div>
-         <div class="campo-imagen">
-            <div class="llanta-marca"></div>
+           </div>
+           <div class="row">
+             <div class="col m12">
+              <p>Aprenderas:</p>
+              <ol>
+                <li>Bacon ipsum dolor amet ball tip spare ribs jowl porchetta fatback venison swsadsadasdine pork tri-</li>
+                <li>Bacon ipsum dolor amet ball tip spare rdasdaibs jowl porchetta fatback venison swine pork tri-</li>
+                <li>Bacon ipsum dolor amet ball tip spare ribs jowl porcdashetta fatback venison swine asdaspork tri-</li>
+                <li>Bacon ipsum dolor amet ball tip spare rdasdasibs jowl pordaschetta fatback venison swine pork tri-</li>
+                <li>Bacon ipsum dolor amet ball tip spaddre ribs jowl porchetta fatback venison swine psadasork tri-</li>
+                <li>Bacon ipsum dolor amet ball tip spare ribs jowl porchetta fatback venison swinsadsdsadasdasdae pork tri-</li>
+                <li>Bacon ipsum dolor amet ball tip spare ribs jowl porchetta fatback venison swine pork tri-</li>
+                <li>Bacon ipsum dolor amet ball tip spare ribs jasdasowl porchetta fatback venison swine pork tri-</li>
+              </ol>
+              <p>Duracion: 3 horas    |  Duracion: 3 horas</p>
+            </div>
+           </div>
          </div>
       </div>
     </div>
-      <div class="row" style=" padding-left: 5rem; padding-right: 5rem;">
-         <div class="col m12">
-            <!-- Estos son solo los titulos -->
-            <div class="row titulos-cursos">
-              <!-- Titulo curso 1 -->
-               <div class="titulo-curso ubicacion1">
-                  vip ride pro course
-               </div>
-               <p class="ubicacion1"><strong>nivel 1</strong></p>
-               <div class="subtitulo-card ub-1">
-                  <div class="llanta-marca"></div>
-                  <ul>
-                     <li><h5>5 horas practicas en la pista</h5></li>
-                     <li><h5>1 hora de masajes</h5></li>
-                     <li><h5>1 salda  a rumbear</h5></li>
-                  </ul>
-               </div>
-               <!-- Titulo curso 2 -->
-               <div class="titulo-curso ubicacion2">
-                  3 dias
-               </div>
-               <p class="ubicacion2"><strong>nivel 2</strong></p>
-               <div class="subtitulo-card ub-2">
-                  <div class="llanta-marca"></div>
-                  <ul>
-                     <li><h5>5 horas practicas en la pista</h5></li>
-                     <li><h5>1 hora de masajes</h5></li>
-                     <li><h5>1 salda  a rumbear</h5></li>
-                  </ul>
-               </div>
-               <!-- Titulo curso 3 -->
-               <div class="titulo-curso ubicacion3">
-                  7 dias
-               </div>
-               <p class="ubicacion3"><strong>nivel 3</strong></p>
-               <div class="subtitulo-card ub-3">
-                  <div class="llanta-marca"></div>
-                  <ul>
-                     <li><h5>5 dias de manejo en pista</h5></li>
-                     <li><h5>1 hora de masajes</h5></li>
-                     <li><h5>1 salda  a rumbear</h5></li>
-                  </ul>
-               </div>
-            </div>
-            <!-- Aqui los cuadros con la descripcion -->
-            <div class="row">
-               <div class="col s12 m4" style="padding-right: 20px;">
-                  <div class="card forma-curso">
-                     <div class="card-content">
-                        <p>I am a very simple card. I am good at containing small bits of information.
-                           I am convenient because I require little markup to use effectively.
-                        </p>
-                     </div>
-                     <div class="card-action">
-                        <ul class="ul-inline">
-                           <li><a href="#">Duracion: 2 dias</a></li>
-                           <li><a href="#">Precio: $310.000</a></li>
-                        </ul>
-                     </div>
-                  </div>
-               </div>
-               <div class="col s12 m4" style="padding-right: 20px;">
-                  <div class="card forma-curso">
-                     <div class="card-content">
-                        <p>I am a very simple card. I am good at containing small bits of information.
-                           I am convenient because I require little markup to use effectively.
-                        </p>
-                     </div>
-                     <div class="card-action">
-                        <ul class="ul-inline">
-                           <li><a href="#">Duracion: 2 dias</a></li>
-                           <li><a href="#">Precio: $310.000</a></li>
-                        </ul>
-                     </div>
-                  </div>
-               </div>
-               <div class="col s12 m4" style="padding-right: 20px;">
-                  <div class="card forma-curso">
-                     <div class="card-content">
-                        <p>I am a very simple card. I am good at containing small bits of information.
-                           I am convenient because I require little markup to use effectively.
-                        </p>
-                     </div>
-                     <div class="card-action">
-                        <ul class="ul-inline">
-                           <li><a href="#">Duracion: 2 dias</a></li>
-                           <li><a href="#">Precio: $310.000</a></li>
-                        </ul>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
    </div>
 </section>
+
+
+
+<!-- * END Content -->
+
 <!-- Incluir Contacto -->
 <?php include("secciones/contacto.php"); ?>
+<!-- Aqui el footer -->
 <?php include("secciones/footer.php"); ?>

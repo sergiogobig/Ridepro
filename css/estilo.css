@@ -1,3 +1,7 @@
+section#contacto a {
+	color: white;
+}
+
 #cursos-descripcion .card-content {
 	margin-top: 11rem;
 }

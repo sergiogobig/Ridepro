@@ -1,13 +1,13 @@
 <section class="slider-intro" id="page-top" >
-   <div class="carousel carousel-slider center slider-top" data-indicators="true">
-      <div class="carousel-item black-text" href="#one!">
-         <div class="parallax-container">
+
+
+         <div class="parallax-container slider-top">
             <div class="parallax">
-               <img width="100%" src="http://via.placeholder.com/1280x500">
+               <img width="100%" src="../imagenes/portadacursoper2.jpg">
             </div>
          </div>
-      </div>
-   </div>
+
+
    <div class="container">
       <div class="row">
          <div class="col m12 text-section">

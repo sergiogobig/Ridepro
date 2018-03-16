@@ -177,7 +177,6 @@ section#contacto a {
 .llanta-marca {
   height: 9rem;
   width: 9rem;
-	background-image: url('http://via.placeholder.com/135x135');
 }
 .section-subheading {
 	font-family: fuenteride2, sans-serif, serif;
@@ -202,6 +201,25 @@ section#contacto a {
 	top: 5px;
 }
 
+.imgenparallax {
+	z-index: -2;
+
+}
+
+.acomodarjustoper{
+	position: absolute;
+	top: 25%;
+	width: 190px;
+	left: 17%;
+}
+
+.textosparrafos {
+	color: #808080;
+	font-family: parrafos;
+	font-size: 0.75rem;
+	margin-top: 1.7rem;
+}
+
 .clase4{
 	display: table;
 	height: 100%;
@@ -216,6 +234,12 @@ section#contacto a {
 	top: 18px!important;
 	max-height: 500px !important;
   min-height: 500px !important;
+}
+
+.slider-top2{
+	top: 18px!important;
+	max-height: 390px !important;
+  min-height: 390px !important;
 }
 .slider-intro {
 	height: 505px;

@@ -1,14 +1,13 @@
 <section id="cursos-descripcion">
-   <div class="container">
+
       <div class="row">
          <div class="col m12 center-align section-subheading">
-            <h5>Bacon ipsum dolor amet meatloaf cupim shoulder, pancetta</h5>
+            <h5>Por medio de la capacitaciòn y el deporte, salvamos vidas <img src="../imagenes/RPN.png" alt=""></h5>
          </div>
-         <div class="campo-imagen">
-            <div class="llanta-marca"></div>
-         </div>
+
       </div>
-    </div>
+
+
       <div class="row" style=" padding-left: 5rem; padding-right: 5rem;">
          <div class="col m12">
             <!-- Estos son solo los titulos -->

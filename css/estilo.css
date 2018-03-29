@@ -1,40 +1,3 @@
-.encabezado-pagina {
-	height: 16rem;
-	width: 32rem;
-	margin-left: 10rem;
-	margin-bottom: 3rem;
-	background: url('../imagenes/encabezado.png')no-repeat;
-}
-
-.foto1 {
-	background: url('../imagenes/portadacursoper2.jpg') no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
-.cortada {
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-	clip-path: url(#myClip);
-	position: absolute;
-	width: 60%;
-}
-
-section#section3 p, li {
-	color: white;
-}
-
-.tipos-cursos {
-	position: relative;
-	padding-left: 5rem;
-	padding-right: 5rem;
-	top: -9rem;
-}
-
 section#contacto a {
 	color: white;
 }
@@ -84,24 +47,16 @@ section#contacto a {
 .titulo-curso {
 	-webkit-clip-path: polygon(5% 0, 100% 0, 95% 100%, 0 100%);
 	clip-path: polygon(5% 0, 100% 0, 95% 100%, 0 100%);
+	background-color: red;
 	color: white;
 	position: relative;
 	z-index: 1;
 	text-transform: uppercase;
 	display: inline;
-	padding: 5px 15px 5px 20px;
+	padding: 5px 10px 5px 20px;
 	letter-spacing: 5px;
   font-size: 15px;
 	font-family: fuenteride2, sans-serif, serif;
-}
-
-.titulo-rojo {
-	background-color: red;
-}
-
-.titulo-gris {
-	background-color: #d1d1d1;
-	color: #757575;
 }
 
 .ubicacion1 {
@@ -222,9 +177,6 @@ section#contacto a {
 .llanta-marca {
   height: 9rem;
   width: 9rem;
-	background-image: url('../imagenes/marca-llantas.png');
-	background-repeat: no-repeat;
-	margin-top: 12px;
 }
 .section-subheading {
 	font-family: fuenteride2, sans-serif, serif;
@@ -249,6 +201,25 @@ section#contacto a {
 	top: 5px;
 }
 
+.imgenparallax {
+	z-index: -2;
+
+}
+
+.acomodarjustoper{
+	position: absolute;
+	top: 25%;
+	width: 190px;
+	left: 17%;
+}
+
+.textosparrafos {
+	color: #808080;
+	font-family: parrafos;
+	font-size: 0.75rem;
+	margin-top: 1.7rem;
+}
+
 .clase4{
 	display: table;
 	height: 100%;
@@ -263,6 +234,12 @@ section#contacto a {
 	top: 18px!important;
 	max-height: 500px !important;
   min-height: 500px !important;
+}
+
+.slider-top2{
+	top: 18px!important;
+	max-height: 390px !important;
+  min-height: 390px !important;
 }
 .slider-intro {
 	height: 505px;

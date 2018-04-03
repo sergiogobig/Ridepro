@@ -2,7 +2,7 @@
 
       <div class="row">
          <div class="col m12 center-align section-subheading">
-            <h5>Por medio de la capacitaciòn y el deporte, salvamos vidas <img src="../imagenes/RPN.png" alt=""></h5>
+            <h5>Por medio de la capacitaciòn y el deporte, salvamos vidas <img class="acomodartop" src="../imagenes/RPN.png" alt=""></h5>
          </div>
 
       </div>

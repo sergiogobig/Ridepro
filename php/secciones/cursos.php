@@ -1,5 +1,6 @@
 <section id="cursos" style="padding: 5rem 5rem 4rem 5rem; margin: 0; background-color: #333333" class="row">
    <div class="col s4 center">
+     <a href="../php/rideproday.php">
       <div style="height: 187px; display: table; margin: 0 auto 0 auto;">
          <div style="vertical-align: middle; display: table-cell;"><img style="width: 100%; max-width: 200px;" src="../imagenes/rideproday.png" alt=""></div>
       </div>

@@ -2,8 +2,93 @@ section#contacto a {
 	color: white;
 }
 
+.displaytable {
+	display: table;
+}
+
+.iconoscards {
+	width: 60px;
+	vertical-align: middle;
+}
+
+.parrafos{
+	font-family: parrafos;
+	color: black !important;
+}
+
+.margenizq1 {
+	margin-left: 1rem;
+}
+
+
+.margenizq2 {
+	margin-left: 2rem;
+}
+
+
+.margenizq3 {
+	margin-left: 3rem;
+}
+.altura500 {
+ height: 500px;
+}
+.fondocard {
+	background-color: #B2B2B2;
+}
+.alinearv {
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.acomodarchulo {
+	position: absolute;
+	top: 4.5rem;
+	left: -30px;
+}
+
+.acomodarchulo2 {
+	position: absolute;
+	top: 4.5rem;
+	left: 7.5rem;
+}
+
+.desbordar {
+	margin-left: -2.7rem;
+}
+
+.tamañonormal {
+font-size: 15px; line-height: 26px;}
+
+.textobannerrideproday{
+position: absolute; color: white; font-family: fuenterideregular; font-size: 1.5rem; top: 11rem; left: 17%;
+}
+
 #cursos-descripcion .card-content {
 	margin-top: 11rem;
+}
+
+.textosdecorados {
+	background-color: white;font-family: fuenterideregular; display: inline-block; padding-right: 0.5rem; padding-left: 0.2rem; margin-right: 0rem; color: black; font-size: 2.2rem;
+}
+
+.textosdecorados2 {
+	background-color: red;font-family: fuenterideregular; display: inline-block; padding-right: 0.5rem; padding-left: 0rem; color: white; font-size: 2.2rem;
+}
+
+.textosdecorados3 {
+	display: inline-block; padding-right: 0.5rem; padding-left: 0.2rem; margin-right: 0rem; color: black; font-size: 1.8rem;
+}
+
+.textosdecorados4 {
+	background-color: red; padding-top: 3px; padding-bottom: 3px; font-family: fuenteride; display: inline-block; padding-right: 0.5rem; padding-left: 0rem; color: white; font-size: 1rem; letter-spacing: 5px
+}
+
+.textosdecorados5 {
+	margin-left: 3rem; background-color: #333333; padding-top: 3px; padding-bottom: 3px; font-family: fuenteride; display: inline-block; padding-right: 0.5rem; padding-left: 0rem; color: white; font-size: 1rem; letter-spacing: 5px
+}
+
+.textosdecorados6 {
+ background-color: #333333; padding-top: 3px; padding-bottom: 3px; font-family: fuenteride; display: inline-block; padding-right: 0.5rem; padding-left: 0rem; color: white; font-size: 1rem; letter-spacing: 5px
 }
 
 .emailtelefono {
@@ -206,6 +291,21 @@ section#contacto a {
 
 }
 
+.bannerridepro {
+	-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+	filter: grayscale(100%);
+	height: 250px;
+	margin-bottom: 2rem;
+}
+
+.absolute2 {
+	z-index: 10;
+	position: absolute;
+	top: 40%;
+	left: 44%;
+
+}
+
 .acomodarjustoper{
 	position: absolute;
 	top: 25%;
@@ -213,11 +313,23 @@ section#contacto a {
 	left: 17%;
 }
 
+.aumentartamañofuente {
+	font-size: 1.4rem;
+}
+
+.tamañoreducido {
+	font-size: 0.75rem;
+}
+
 .textosparrafos {
 	color: #808080;
 	font-family: parrafos;
 	font-size: 0.75rem;
 	margin-top: 1.7rem;
+}
+
+.oscurecer {
+	background-color: rgba(0, 0, 0, 0.6);
 }
 
 .clase4{
@@ -230,6 +342,18 @@ section#contacto a {
 .clase3 {
 	height: 500px
 }
+
+.alinearv2 {
+	font-size: 6rem;
+	color: white;
+}
+.displaytable2 {
+	height: 250px;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 4rem;
+		width: 100%
+}
 .slider-top{
 	top: 18px!important;
 	max-height: 500px !important;
@@ -240,6 +364,7 @@ section#contacto a {
 	top: 18px!important;
 	max-height: 390px !important;
   min-height: 390px !important;
+	margin-bottom: 18px;
 }
 .slider-intro {
 	height: 505px;
@@ -274,13 +399,111 @@ section#contacto a {
      -ms-transform: skew(-8deg);
      -o-transform: skew(-8deg);
      transform: skew(-8deg);
-     margin-right: 0.5rem;
+     margin-right: 0rem;
 
 }
 
+.imagenautodromo {
+	width: 50%;
+}
+
+.imagenautodromo2 {
+	width: 100%;
+}
+
+.absolute {
+	position: absolute;
+	margin-right: 10rem;
+	z-index: -1;
+}
+.autodromo {
+	text-align: right;
+	z-index: 10;
+	margin-left: 15rem;
+}
+
+.linearoja {
+	border-top: 5px red solid;
+	margin-left: 90%;
+	text-align: right;
+}
+ .anchuraautodromos {
+	 width: 95px;
+ }
+.autodromo2 {
+	width: 100%;
+	text-align: right;
+	z-index: 10;
+	font-family: fuenteride;
+	color: grey;
+}
+
+.alturamin {
+	height: 450px;
+	max-width: 920px;
+
+}
+.relative {
+	position: relative;
+}
+
+.vener {
+	font-family: vener;
+}
 @font-face {
 	font-family: "fuenteride";
 	src: url("../fonts/roboto/Gobold light.otf")
+}
+
+@font-face {
+	font-family: "veneritalic";
+	src: url("../fonts/roboto/VeneerItalic.ttf")
+}
+
+@font-face {
+	font-family: "vener";
+	src: url("../fonts/roboto/Veneer.ttf")
+}
+.vener2 {
+	font-family: fuenteride;
+}
+
+.vener3 {
+	font-family: fuenteride;
+	font-style: italic;
+}
+
+.añadirmargen {
+	margin-top: 7rem !important;
+	font-family: parrafos;
+	color: black !important;
+	line-height: 1.2 !important;
+}
+
+.prefix2 {
+	width: 1.9rem !important;
+}
+
+.nomargenabajo {
+	margin-bottom: 0px;
+}
+
+.botonformulario {
+	margin-left: 3rem;
+	width: 120px !important;
+}
+
+.acomodartop{
+	vertical-align: text-top;
+}
+
+.prefix3 {
+	width: 1.9rem !important;
+}
+
+@font-face {
+	font-family: "fuenterideregular";
+	src: url("../fonts/roboto/Gobold Regular.otf")
 }
 
 @font-face {
@@ -291,4 +514,8 @@ section#contacto a {
 @font-face {
      font-family: "parrafos";
      src: url("../fonts/roboto/Helvetica-Oblique.otf")
+}
+
+.material-icons {
+	color: black;
 }

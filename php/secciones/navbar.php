@@ -11,6 +11,10 @@
            </li>
            <li class="paralelogramo">
              <img class="navbar-item-img" src="../imagenes/RP.png" alt="">
+             <a class="black-text" href="index.php#page-top">MOTOFEST III</a>
+           </li>
+           <li class="paralelogramo">
+             <img class="navbar-item-img" src="../imagenes/RP.png" alt="">
              <a class="black-text" href="index.php#cursos">CURSOS</a>
            </li>
            <li class="paralelogramo">

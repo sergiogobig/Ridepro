@@ -1,3 +1,18 @@
+$(document).ready(function () {
+
+  $('#test').click(function() {
+      $("#myDropdown").toggle();
+  });
+  $('.paralelogramo').hover(function() {
+    $("#myDropdown").hide();
+  });
+
+  $('.team-member').click( function() {
+    $('#imagen-inicio').hide();
+  });
+
+});
+
 
 function myFunctionda() {
   var s = document.getElementById("santiago")
@@ -166,7 +181,7 @@ else {
 $(document).ready(function(){
       $('.parallax').parallax();
     });
-        
+
 /*!
  * Materialize v0.100.2 (http://materializecss.com)
  * Copyright 2014-2017 Materialize
@@ -2973,6 +2988,7 @@ if (Vel) {
 
   $(document).ready(function () {
     $('ul.tabs').tabs();
+
   });
 })(jQuery);
 ;(function ($) {

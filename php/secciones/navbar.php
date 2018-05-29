@@ -9,17 +9,22 @@
              <img class="navbar-item-img" src="../imagenes/RP.png" alt="">
              <a class="black-text" href="index.php#page-top">HOME</a>
            </li>
-           <li class="paralelogramo">
+           <li class="dropdown paralelogramo">
              <img class="navbar-item-img" src="../imagenes/RP.png" alt="">
-             <a class="black-text" href="index.php#page-top">MOTOFEST III</a>
+             <a id="test" class="dropbtn black-text">EVENTOS</a>
+               <div id="myDropdown" class="oculto">
+                 <a href="#home">Motofest IV</a>
+                 <a href="#about">RidePro Day</a>
+                 <a href="#contact">Kawaschool</a>
+               </div>
            </li>
+           <!-- <li class="paralelogramo">
+             <img class="navbar-item-img" src="../imagenes/RP.png" alt="">
+             <a class="black-text" href="index.php#eventos">EVENTOS</a>
+           </li> -->
            <li class="paralelogramo">
              <img class="navbar-item-img" src="../imagenes/RP.png" alt="">
              <a class="black-text" href="index.php#cursos">CURSOS</a>
-           </li>
-           <li class="paralelogramo">
-             <img class="navbar-item-img" src="../imagenes/RP.png" alt="">
-             <a class="black-text" href="index.php#eventos">EVENTOS</a>
            </li>
            <li class="paralelogramo">
              <img class="navbar-item-img" src="../imagenes/RP.png" alt="">
@@ -29,3 +34,4 @@
      </div>
   </nav>
 </div>
+<!-- Dropdown Structure -->

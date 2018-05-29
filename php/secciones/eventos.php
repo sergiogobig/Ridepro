@@ -28,7 +28,7 @@
 <div style="padding: 3.5rem 5rem 4rem 5rem; margin: 0" class="row white">
    <div class="col s4 center">
       <div style="display: table; height: 120px; margin-right: auto; margin-left: auto;">
-         <div style="display: table-cell; vertical-align: middle;"><img style="height: 115px;" src="../imagenes/Logomoto.png" alt=""></div>
+         <div style="display: table-cell; vertical-align: middle;"><img style="height: 115px;" src="../imagenes/logomoto.png" alt=""></div>
       </div>
       <p style="color: black; margin-top: 0rem; font-size: 0.75rem; padding: 0 4rem 0 4rem; font-family: parrafos;">El mayor evento de motociclistas para motociclistas donde se integra toda la comunidad motera del país en torno a múltiples actividades y las marcas más importantes</p>
    </div>
@@ -40,7 +40,7 @@
    </div>
    <div class="col s4 center">
       <div style="display: table; height: 120px; margin-right: auto; margin-left: auto;">
-         <div style="display: table-cell; vertical-align: middle;"><img style="height: 100px;" src="../imagenes/Racing.png" alt=""></div>
+         <div style="display: table-cell; vertical-align: middle;"><img style="height: 100px;" src="../imagenes/racing.png" alt=""></div>
       </div>
       <p style="color: black; margin-top: 0rem; font-size: 0.75rem; padding: 0 4rem 0 4rem; font-family: parrafos;">Nuestra propia categoría en GP Colombia para descubrir los próximos talentos de la motovelocidad de alto cilindraje en el país.</p>
    </div>

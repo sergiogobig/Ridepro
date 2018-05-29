@@ -1,3 +1,56 @@
+.forma-curso .t1{
+	color: black;
+	font-size: 13px;
+	font-style: italic;
+	font-family: sans-serif, serif;
+	line-height: normal;
+}
+.price-tag {
+	width: 20rem;
+	height: 6rem;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 3rem;
+	margin-bottom: 5rem;
+	background-image: url('../imagenes/price-tag.png');
+	background-repeat:no-repeat;
+	background-size:contain;
+	background-position:center;
+}
+
+.price-tag h3{
+	color: #fff;
+  text-transform: uppercase;
+  font-style: italic;
+  font-family: fuenteride2, sans-serif, serif;
+  letter-spacing: 1px;
+	line-height: normal;
+	padding-top: 20px;
+}
+.descripcion-requisitos {
+	margin-top: -9px;
+	padding-left: 27px;
+}
+.descripcion-requisitos p {
+	color: #fff;
+  font-size: 10px;
+  font-style: italic;
+  font-family: sans-serif, serif;
+  line-height: normal;
+}
+.subtitulo-cursos {
+	margin-top: -9px;
+	padding-left: 27px;
+}
+.subtitulo-cursos h5 {
+	color: #fff;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-style: italic;
+  font-family: fuenteride2, sans-serif, serif;
+  letter-spacing: 1px;
+	line-height: normal;
+}
 section#contacto a {
 	color: white;
 }
@@ -11,7 +64,7 @@ section#contacto a {
 	vertical-align: middle;
 }
 
-.parrafos{
+.parrafos {
 	font-family: parrafos;
 	color: black !important;
 }
@@ -20,21 +73,22 @@ section#contacto a {
 	margin-left: 1rem;
 }
 
-
 .margenizq2 {
 	margin-left: 2rem;
 }
 
-
 .margenizq3 {
 	margin-left: 3rem;
 }
+
 .altura500 {
- height: 500px;
+	height: 500px;
 }
+
 .fondocard {
 	background-color: #B2B2B2;
 }
+
 .alinearv {
 	display: table-cell;
 	vertical-align: middle;
@@ -57,10 +111,28 @@ section#contacto a {
 }
 
 .tamañonormal {
-font-size: 15px; line-height: 26px;}
+	font-size: 15px;
+	line-height: 26px;
+}
 
-.textobannerrideproday{
-position: absolute; color: white; font-family: fuenterideregular; font-size: 1.5rem; top: 11rem; left: 17%;
+.tamañonormal p {
+	margin: 0px;
+}
+
+.textobannerrideproday {
+	color: white;
+	font-family: fuenterideregular;
+	font-size: 1.5rem;
+	/* margin-top: 7rem; */
+}
+
+.header-position {
+	margin-left: 10rem!important;
+	margin-top: 5rem;
+}
+
+.header-position img {
+	opacity: 0.7;
 }
 
 #cursos-descripcion .card-content {
@@ -68,27 +140,73 @@ position: absolute; color: white; font-family: fuenterideregular; font-size: 1.5
 }
 
 .textosdecorados {
-	background-color: white;font-family: fuenterideregular; display: inline-block; padding-right: 0.5rem; padding-left: 0.2rem; margin-right: 0rem; color: black; font-size: 2.2rem;
+	background-color: white;
+	font-family: fuenterideregular;
+	display: inline-block;
+	padding-right: 0.5rem;
+	padding-left: 0.2rem;
+	margin-right: 0rem;
+	color: black;
+	font-size: 2.2rem;
 }
 
 .textosdecorados2 {
-	background-color: red;font-family: fuenterideregular; display: inline-block; padding-right: 0.5rem; padding-left: 0rem; color: white; font-size: 2.2rem;
+	background-color: red;
+	font-family: fuenterideregular;
+	display: inline-block;
+	padding-right: 0.5rem;
+	padding-left: 0rem;
+	color: white;
+	font-size: 2.2rem;
 }
 
 .textosdecorados3 {
-	display: inline-block; padding-right: 0.5rem; padding-left: 0.2rem; margin-right: 0rem; color: black; font-size: 1.8rem;
+	display: inline-block;
+	padding-right: 0.5rem;
+	padding-left: 0.2rem;
+	margin-right: 0rem;
+	color: black;
+	font-size: 1.8rem;
 }
 
 .textosdecorados4 {
-	background-color: red; padding-top: 3px; padding-bottom: 3px; font-family: fuenteride; display: inline-block; padding-right: 0.5rem; padding-left: 0rem; color: white; font-size: 1rem; letter-spacing: 5px
+	background-color: red;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	font-family: fuenteride;
+	display: inline-block;
+	padding-right: 0.5rem;
+	padding-left: 0rem;
+	color: white;
+	font-size: 1rem;
+	letter-spacing: 5px
 }
 
 .textosdecorados5 {
-	margin-left: 3rem; background-color: #333333; padding-top: 3px; padding-bottom: 3px; font-family: fuenteride; display: inline-block; padding-right: 0.5rem; padding-left: 0rem; color: white; font-size: 1rem; letter-spacing: 5px
+	margin-left: 3rem;
+	background-color: #333333;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	font-family: fuenteride;
+	display: inline-block;
+	padding-right: 0.5rem;
+	padding-left: 0rem;
+	color: white;
+	font-size: 1rem;
+	letter-spacing: 5px
 }
 
 .textosdecorados6 {
- background-color: #333333; padding-top: 3px; padding-bottom: 3px; font-family: fuenteride; display: inline-block; padding-right: 0.5rem; padding-left: 0rem; color: white; font-size: 1rem; letter-spacing: 5px
+	background-color: #333333;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	font-family: fuenteride;
+	display: inline-block;
+	padding-right: 0.5rem;
+	padding-left: 0rem;
+	color: white;
+	font-size: 1rem;
+	letter-spacing: 5px
 }
 
 .emailtelefono {
@@ -102,7 +220,7 @@ position: absolute; color: white; font-family: fuenterideregular; font-size: 1.5
 	margin-top: 0px;
 }
 
-.margensup-2{
+.margensup-2 {
 	margin-top: -2px;
 }
 
@@ -124,7 +242,7 @@ position: absolute; color: white; font-family: fuenterideregular; font-size: 1.5
 	z-index: 1;
 	text-transform: uppercase;
 	display: inline;
-  padding: 5px 0px 5px 7px;
+	padding: 5px 0px 5px 7px;
 	letter-spacing: 1px;
 	font-size: 15px;
 }
@@ -140,7 +258,7 @@ position: absolute; color: white; font-family: fuenterideregular; font-size: 1.5
 	display: inline;
 	padding: 5px 10px 5px 20px;
 	letter-spacing: 5px;
-  font-size: 15px;
+	font-size: 20px;
 	font-family: fuenteride2, sans-serif, serif;
 }
 
@@ -160,13 +278,13 @@ position: absolute; color: white; font-family: fuenterideregular; font-size: 1.5
 }
 
 .forma-curso .card-content {
-    padding: 4px;
-    border-radius: 0 0 2px 2px;
+	padding: 4px;
+	border-radius: 0 0 2px 2px;
 }
 
 .forma-curso .card-action {
-    padding: 4px;
-    border-radius: 0 0 2px 2px;
+	padding: 4px;
+	border-radius: 0 0 2px 2px;
 }
 
 .forma-curso a {
@@ -177,18 +295,19 @@ position: absolute; color: white; font-family: fuenterideregular; font-size: 1.5
 	letter-spacing: 2px!important;
 }
 
-
 .ul-inline {
 	margin: 0;
 	padding: 0;
 	list-style-type: none;
 }
+
 .ul-inline li {
 	display: inline;
 }
+
 .forma-curso {
 	-webkit-clip-path: polygon(100% 0, 100% 93%, 93% 100%, 0 100%, 0 0);
-	clip-path: polygon(100% 0, 100% 93%, 93% 100%, 0 100%, 0 0);
+	clip-path: polygon(100% 0, 100% 83%, 83% 100%, 0 100%, 0 0);
 	height: auto;
 	background: #d1d1d1;
 	/* margin: 0px 0px 0px 4px; */
@@ -202,12 +321,10 @@ position: absolute; color: white; font-family: fuenterideregular; font-size: 1.5
 	float: right;
 }
 
-
 .ub-1 {
 	margin-top: 67px;
 	left: 4rem;
 }
-
 
 .ub-2 {
 	margin-top: 67px;
@@ -219,25 +336,29 @@ position: absolute; color: white; font-family: fuenterideregular; font-size: 1.5
 	left: 83rem;
 }
 
+
 /* pantallas mas pequeñas que */
+
 @media (max-width: 1900px) {
 	.ubicacion2 {
-	  top: 65px;
-	  left: 2rem;
+		top: 65px;
+		left: 2rem;
 	}
 	.ubicacion3 {
-	  top: 65px;
-	  left: 15rem;
+		top: 65px;
+		left: 15rem;
 	}
 	.ub-2 {
-	    margin-top: 67px;
-	    left: 29rem;
+		margin-top: 67px;
+		left: 29rem;
 	}
 	.ub-3 {
-	    margin-top: 67px;
-	    left: 54rem;
+		margin-top: 67px;
+		left: 54rem;
 	}
 }
+
+
 /*  */
 
 .subtitulo-card {
@@ -260,9 +381,10 @@ position: absolute; color: white; font-family: fuenterideregular; font-size: 1.5
 }
 
 .llanta-marca {
-  height: 9rem;
-  width: 9rem;
+	height: 9rem;
+	width: 9rem;
 }
+
 .section-subheading {
 	font-family: fuenteride2, sans-serif, serif;
 	color: red;
@@ -270,15 +392,18 @@ position: absolute; color: white; font-family: fuenterideregular; font-size: 1.5
 
 .section-subheading h5 {
 	letter-spacing: 5px;
-  font-size: 22px;
+	font-size: 22px;
 }
+
 .text-section {
-	margin-top:10px;
+	margin-top: 10px;
 }
-.navbar-ul{
+
+.navbar-ul {
 	line-height: 26px;
 	padding-top: 3rem;
 }
+
 .navbar-item-img {
 	width: 24px;
 	position: absolute;
@@ -288,11 +413,11 @@ position: absolute; color: white; font-family: fuenterideregular; font-size: 1.5
 
 .imgenparallax {
 	z-index: -2;
-
 }
 
 .bannerridepro {
-	-webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+	-webkit-filter: grayscale(100%);
+	/* Safari 6.0 - 9.0 */
 	filter: grayscale(100%);
 	height: 250px;
 	margin-bottom: 2rem;
@@ -303,10 +428,9 @@ position: absolute; color: white; font-family: fuenterideregular; font-size: 1.5
 	position: absolute;
 	top: 40%;
 	left: 44%;
-
 }
 
-.acomodarjustoper{
+.acomodarjustoper {
 	position: absolute;
 	top: 25%;
 	width: 190px;
@@ -332,13 +456,14 @@ position: absolute; color: white; font-family: fuenterideregular; font-size: 1.5
 	background-color: rgba(0, 0, 0, 0.6);
 }
 
-.clase4{
+.clase4 {
 	display: table;
 	height: 100%;
 	width: 100%;
 	position: absolute;
 	left: 8rem;
 }
+
 .clase3 {
 	height: 500px
 }
@@ -347,31 +472,35 @@ position: absolute; color: white; font-family: fuenterideregular; font-size: 1.5
 	font-size: 6rem;
 	color: white;
 }
+
 .displaytable2 {
 	height: 250px;
 	margin-left: auto;
 	margin-right: auto;
 	font-size: 4rem;
-		width: 100%
-}
-.slider-top{
-	top: 18px!important;
-	max-height: 500px !important;
-  min-height: 500px !important;
+	width: 100%
 }
 
-.slider-top2{
+.slider-top {
+	top: 18px!important;
+	max-height: 500px !important;
+	min-height: 500px !important;
+}
+
+.slider-top2 {
 	top: 18px!important;
 	max-height: 390px !important;
-  min-height: 390px !important;
+	min-height: 390px !important;
 	margin-bottom: 18px;
 }
+
 .slider-intro {
 	height: 505px;
 }
+
 .navegacion {
 	background-color: white;
-  height: 5rem;
+	height: 5rem;
 }
 
 .margennavegacion {
@@ -379,28 +508,30 @@ position: absolute; color: white; font-family: fuenterideregular; font-size: 1.5
 }
 
 .paralelogramo {
-     -webkit-transform: skew(-8deg);
-     -moz-transform: skew(-8deg);
-     -ms-transform: skew(-8deg);
-     -o-transform: skew(-8deg);
-     transform: skew(-8deg);
-     font-family: fuenteride;
-     width: 195px;
-     text-align: right;
-     border: solid black 1px;
-     margin-right: 0.5rem;
-     letter-spacing: 5.5px;
+	-webkit-transform: skew(-8deg);
+	-moz-transform: skew(-8deg);
+	-ms-transform: skew(-8deg);
+	-o-transform: skew(-8deg);
+	transform: skew(-8deg);
+	font-family: fuenteride;
+	width: 195px;
+	text-align: right;
+	border: solid black 1px;
+	margin-right: 0.5rem;
+	letter-spacing: 5.5px;
 }
 
+.paralelogramo:hover {
+	background: #ff0000c9;
+}
 
 .paralelogramo2 {
-     -webkit-transform: skew(-8deg);
-     -moz-transform: skew(-8deg);
-     -ms-transform: skew(-8deg);
-     -o-transform: skew(-8deg);
-     transform: skew(-8deg);
-     margin-right: 0rem;
-
+	-webkit-transform: skew(-8deg);
+	-moz-transform: skew(-8deg);
+	-ms-transform: skew(-8deg);
+	-o-transform: skew(-8deg);
+	transform: skew(-8deg);
+	margin-right: 0rem;
 }
 
 .imagenautodromo {
@@ -416,6 +547,7 @@ position: absolute; color: white; font-family: fuenterideregular; font-size: 1.5
 	margin-right: 10rem;
 	z-index: -1;
 }
+
 .autodromo {
 	text-align: right;
 	z-index: 10;
@@ -427,9 +559,11 @@ position: absolute; color: white; font-family: fuenterideregular; font-size: 1.5
 	margin-left: 90%;
 	text-align: right;
 }
- .anchuraautodromos {
-	 width: 95px;
- }
+
+.anchuraautodromos {
+	width: 95px;
+}
+
 .autodromo2 {
 	width: 100%;
 	text-align: right;
@@ -441,8 +575,8 @@ position: absolute; color: white; font-family: fuenterideregular; font-size: 1.5
 .alturamin {
 	height: 450px;
 	max-width: 920px;
-
 }
+
 .relative {
 	position: relative;
 }
@@ -450,6 +584,7 @@ position: absolute; color: white; font-family: fuenterideregular; font-size: 1.5
 .vener {
 	font-family: vener;
 }
+
 @font-face {
 	font-family: "fuenteride";
 	src: url("../fonts/roboto/Goboldlight.otf")
@@ -464,6 +599,7 @@ position: absolute; color: white; font-family: fuenterideregular; font-size: 1.5
 	font-family: "vener";
 	src: url("../fonts/roboto/Veneer.ttf")
 }
+
 .vener2 {
 	font-family: fuenteride;
 }
@@ -493,7 +629,7 @@ position: absolute; color: white; font-family: fuenterideregular; font-size: 1.5
 	width: 120px !important;
 }
 
-.acomodartop{
+.acomodartop {
 	vertical-align: text-top;
 }
 
@@ -507,13 +643,13 @@ position: absolute; color: white; font-family: fuenterideregular; font-size: 1.5
 }
 
 @font-face {
-     font-family: "fuenteride2";
-     src: url("../fonts/roboto/Gobold Italic.ttf")
+	font-family: "fuenteride2";
+	src: url("../fonts/roboto/Gobold Italic.ttf")
 }
 
 @font-face {
-     font-family: "parrafos";
-     src: url("../fonts/roboto/Helvetica-Oblique.otf")
+	font-family: "parrafos";
+	src: url("../fonts/roboto/Helvetica-Oblique.otf")
 }
 
 .material-icons {

@@ -1,3 +1,13 @@
+.nose {
+	margin-left: 42%;
+	position: absolute;
+}
+..uppercase {
+		text-transform: uppercase;
+}
+.fuenteride2 {
+	font-family: fuenteride2,sans-serif;
+}
 
 .oculto {
 	display: none;
@@ -70,7 +80,7 @@ section#contacto a {
 
 .parrafos {
 	font-family: parrafos;
-	color: black !important;
+	color: black;
 }
 
 .margenizq1 {

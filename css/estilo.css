@@ -498,6 +498,13 @@ section#contacto a {
 	margin-bottom: 18px;
 }
 
+.slider-top3 {
+	top: 18px!important;
+	max-height: 500px !important;
+	min-height: 500px !important;
+	margin-bottom: 18px;
+}
+
 .slider-intro {
 	height: 505px;
 }

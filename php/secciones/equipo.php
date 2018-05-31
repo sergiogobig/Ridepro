@@ -1,7 +1,7 @@
 <section id="equipo" style="position: relative;">
    <nav style="position: absolute; background-color: transparent; height: auto !important; margin-top: 1rem" class="navegacion">
       <div class="nav-wrapper margennavegacion">
-         <ul style="line-height: 20px; font-family: fuenteride; font-style: italic; letter-spacing: 1px;" id="nav-mobile" class="right hide-on-med-and-down black-text">
+         <ul style="line-height: 20px; font-family: fuenteride; font-style: italic; letter-spacing: 1px;" id="nav-mobile" class="right">
             <li><a style="font-size: 0.76rem;" class="white-text team-member" onclick="myFunctionsa()">Santiago López</a></li>
             <li><a style="font-size: 0.76rem;" class="white-text team-member" onclick="myFunctional()">Alfredo López</a></li>
             <li><a style="font-size: 0.76rem;" class="white-text team-member" onclick="myFunctionda()">Daniel Villaveces</a></li>

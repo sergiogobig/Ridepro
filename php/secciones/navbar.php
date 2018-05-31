@@ -4,7 +4,7 @@
          <a style="line-height: 114px;" href="index.php" class="brand-logo">
          <img style="width: 250px;" src="../imagenes/Logo 2.png">
          </a>
-         <ul id="nav-mobile" class="right hide-on-med-and-down black-text navbar-ul">
+         <ul id="nav-mobile" class="right hide-on-med-and-down2 black-text navbar-ul">
             <li class="paralelogramo">
                <img class="navbar-item-img" src="../imagenes/RP.png" alt="">
                <a class="black-text" href="index.php#page-top">HOME</a>

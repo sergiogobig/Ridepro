@@ -17,6 +17,44 @@
 	}
 }
 
+
+@media only screen and (max-width: 865px) {
+	.ocultarpequeño2{
+		display: none;
+
+	}
+}
+
+@media (min-width: 620px) and (max-width:865px){
+	.acomodarsocios {
+	font-size: 2.5rem !important;
+	top: 3rem !important;
+	left: 50% !important;
+	}
+}
+
+@media only screen and (min-width: 866px) {
+	.ocultarpequeño3{
+		display: none;
+
+	}
+}
+
+@media only screen and (min-width: 526px) {
+	.ocultarbr{
+		display: none;
+
+	}
+}
+
+
+@media only screen and (max-width: 1170px) {
+	.hide-on-med-and-down2{
+		display: none !important;
+
+	}
+}
+
 @media only screen and (max-width: 920px) {
 	.acomodareventos{
 		width: 100% !important;

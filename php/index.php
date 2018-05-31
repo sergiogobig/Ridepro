@@ -2,6 +2,7 @@
 <?php include("secciones/navbar.php"); ?>
 
 <!-- Este es el slider del inicio -->
+
 <section class="slider-intro ocultarpequeño" id="page-top" >
    <div class="carousel carousel-slider center slider-top" data-indicators="true">
       <div class="carousel-item black-text" href="#one!">

@@ -1,4 +1,4 @@
-<section id="equipo" style="position: relative;">
+<section class="ocultarpequeño2" id="equipo" style="position: relative;">
    <nav style="position: absolute; background-color: transparent; height: auto !important; margin-top: 1rem" class="navegacion">
       <div class="nav-wrapper margennavegacion">
          <ul style="line-height: 20px; font-family: fuenteride; font-style: italic; letter-spacing: 1px;" id="nav-mobile" class="right">
@@ -75,3 +75,46 @@ Cofundador de RidePro y representante nacional de seguridad vial y mototurismo, 
 
 
 </section>
+
+<div class="carousel carousel-slider center ocultarpequeño3">
+
+    <div class="carousel-item white-text" href="#one!">
+      <img src="../imagenes/fotosequiporidepro.jpg" alt="">
+    </div>
+
+    <div class="carousel-item white-text" href="#two!">
+      <img src="../imagenes/Perfil Santi-03.jpg" alt="">
+      <div class="acomodarsocios" style="position: absolute; color: white; font-family: fuenteride2; font-size: 1.5rem; top: 2rem; left: 45%">
+         <span style="background-color: red; display: inline-block; padding-right: 0.5rem; padding-left: 0.2rem; margin-right: 0.2rem;" class="paralelogramo2" >Santiago</span><span style="background-color: white; display: inline-block; padding-right: 0.5rem; padding-left: 0rem; color: black" class="paralelogramo2">López</span>
+    </div>
+    </div>
+
+    <div class="carousel-item white-text" href="#three!">
+      <img src="../imagenes/Perfil Alfred-03.jpg" alt="">
+      <div class="acomodarsocios" style="position: absolute; color: white; font-family: fuenteride2; font-size: 1.5rem; top: 2rem; left: 45%">
+         <span style="background-color: red; display: inline-block; padding-right: 0.5rem; padding-left: 0.2rem; margin-right: 0.2rem;" class="paralelogramo2" >Alfredo</span><span style="background-color: white; display: inline-block; padding-right: 0.5rem; padding-left: 0rem; color: black" class="paralelogramo2">López</span>
+      </div>
+    </div>
+
+    <div class="carousel-item white-text" href="#four!">
+      <img src="../imagenes/Perfil Dani-03.jpg" alt="">
+      <div class="acomodarsocios" style="position: absolute; color: white; font-family: fuenteride2; font-size: 1.5rem; top: 2rem; left: 45%">
+         <span style="background-color: red; display: inline-block; padding-right: 0.5rem; padding-left: 0.2rem; margin-right: 0.2rem;" class="paralelogramo2" >Daniel</span><span style="background-color: white; display: inline-block; padding-right: 0.5rem; padding-left: 0rem; color: black" class="paralelogramo2">Villaveces</span>
+      </div>
+    </div>
+
+    <div class="carousel-item white-text" href="#five!">
+      <img src="../imagenes/Perfil Gus-03.jpg" alt="">
+      <div class="acomodarsocios" style="position: absolute; color: white; font-family: fuenteride2; font-size: 1.5rem; top: 2rem; left: 45%">
+         <span style="background-color: red; display: inline-block; padding-right: 0.5rem; padding-left: 0.2rem; margin-right: 0.2rem;" class="paralelogramo2" >Gustavo</span><span style="background-color: white; display: inline-block; padding-right: 0.5rem; padding-left: 0rem; color: black" class="paralelogramo2">Jaramillo</span>
+      </div>
+    </div>
+
+    <div class="carousel-item white-text" href="#six!">
+      <img src="../imagenes/Perfil Pao-03.jpg" alt="">
+      <div class="acomodarsocios" style="position: absolute; color: white; font-family: fuenteride2; font-size: 1.5rem; top: 2rem; left: 45%">
+         <span style="background-color: red; display: inline-block; padding-right: 0.5rem; padding-left: 0.2rem; margin-right: 0.2rem;" class="paralelogramo2" >Paola</span><span style="background-color: white; display: inline-block; padding-right: 0.5rem; padding-left: 0rem; color: black" class="paralelogramo2">Sanabria</span>
+      </div>
+    </div>
+
+  </div>

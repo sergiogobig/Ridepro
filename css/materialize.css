@@ -4309,7 +4309,7 @@ nav .nav-wrapper {
   height: 100%;
 }
 
-@media only screen and (min-width: 993px) {
+@media only screen and (min-width: 1171px) {
   nav a.sidenav-trigger {
     display: none;
   }
@@ -4344,7 +4344,7 @@ nav .brand-logo.center {
           transform: translateX(-50%);
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 1170px) {
   nav .brand-logo {
     left: 50%;
     -webkit-transform: translateX(-50%);
@@ -4465,7 +4465,7 @@ nav .input-field label.active i {
 
 .navbar-fixed {
   position: relative;
-  height: 56px;
+  height: 74px;
   z-index: 997;
 }
 

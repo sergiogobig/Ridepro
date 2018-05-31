@@ -4,7 +4,8 @@
          <img style="display: inline-block; vertical-align: middle; height: 34px" src="../imagenes/numeral.png" alt=""> RideLikeAPro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
          <a href="https://www.facebook.com/RidePro/" target="_blank">
          <img style="display: inline-block; vertical-align: middle; height: 34px" src="../imagenes/facebook.png" alt=""> RidePro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-         </a>
+       </a>
+       <br class="ocultarbr">
          <a href="https://www.instagram.com/rideprocolombia" target="_blank">
          <img style="display: inline-block; vertical-align: middle; height: 34px" src="../imagenes/instagram.png" alt=""> RideProColombia
          </a>

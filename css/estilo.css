@@ -9,6 +9,25 @@
 	font-family: fuenteride2,sans-serif;
 }
 
+
+@media only screen and (max-width: 1080px) {
+	.ocultarpequeño{
+		display: none;
+
+	}
+}
+
+@media only screen and (min-width: 1081px) {
+	.ocultargrande{
+		display: none;
+
+	}
+}
+
+
+.ocultarpequeño{
+
+}
 .oculto {
 	display: none;
 }

@@ -28,15 +28,15 @@
 <div style="padding: 3.5rem 5rem 4rem 5rem; margin: 0" class="row white">
    <div class="col s6 center">
       <div style="display: table; height: 120px; margin-right: auto; margin-left: auto;">
-         <div style="display: table-cell; vertical-align: middle;"><img style="height: 115px;" src="../imagenes/logomotofest1.png" alt=""></div>
+         <div style="display: table-cell; vertical-align: middle;"><img style="height: 200px;" src="../imagenes/logomotofest1.png" alt=""></div>
       </div>
       <p style="color: black; margin-top: 0rem; font-size: 0.75rem; padding: 0 4rem 0 4rem; font-family: parrafos;">El mayor evento de motociclistas para motociclistas donde se integra toda la comunidad motera del país en torno a múltiples actividades y las marcas más importantes</p>
    </div>
    <div class="col s6  center">
       <div style="display: table; height: 120px; margin-right: auto; margin-left: auto;">
-         <div style="display: table-cell; vertical-align: middle;"><img style="height: 115px;" src="../imagenes/logokawaschool.png" alt=""></div>
+         <div style="display: table-cell; vertical-align: middle;"><img style="height: 200px;" src="../imagenes/logokawaschool.png" alt=""></div>
       </div>
-      <p style="color: black; margin-top: 0rem; font-size: 0.75rem; padding: 0 4rem 0 4rem; font-family: parrafos;">Una de las categorias del GP de Colombia la cual representa la entrada al mundo de la motovelocidad, desarrollada en conjunto con Kawasaki.</p>
+      <p style="color: black; margin-top: 0rem; font-size: 0.75rem; padding: 0 4rem 0 4rem; font-family: parrafos;">Conduce tu moto Kasawasaki como un profesional, somos la escuela oficial de Kawasaki Colombia.</p>
    </div>
    <!-- <div class="col s4 center">
       <div style="display: table; height: 120px; margin-right: auto; margin-left: auto;">

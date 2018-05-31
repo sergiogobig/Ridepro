@@ -1,3 +1,4 @@
+
 $(document).ready(function () {
 
   $('#test').click(function() {
@@ -10209,3 +10210,14 @@ if (Vel) {
       $('.carousel').carousel();
     });
  $('.carousel.carousel-slider').carousel({fullWidth: true});
+
+ document.addEventListener('DOMContentLoaded', function() {
+   var elems = document.querySelectorAll('.sidenav');
+   var instances = M.Sidenav.init(elems, options);
+ });
+
+ // Or with jQuery
+
+ $(document).ready(function(){
+   $('.sidenav').sidenav();
+ });

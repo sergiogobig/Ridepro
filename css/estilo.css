@@ -1,8 +1,18 @@
+
+.construccion {
+	background-image: url('../imagenes/fondo-construccion.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 100% top;
+	background-attachment: fixed;
+	height: 40rem;
+}
+
 .nose {
 	margin-left: 42%;
 	position: absolute;
 }
-..uppercase {
+.uppercase {
 		text-transform: uppercase;
 }
 .fuenteride2 {

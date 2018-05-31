@@ -14,8 +14,8 @@
                <a id="test" class="dropbtn black-text">EVENTOS</a>
                <div id="myDropdown" class="oculto">
                   <a href="motofestiv.php">Motofest IV</a>
-                  <a href="#about">RidePro Day</a>
-                  <a href="#contact">Kawaschool</a>
+                  <a href="construccion.php">RidePro Day</a>
+                  <a href="construccion.php">Kawaschool</a>
                </div>
             </li>
             <li class="paralelogramo">

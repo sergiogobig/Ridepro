@@ -1,8 +1,15 @@
 
+$(document).ready(function(){
+  $('.sidenav').sidenav();
+});
+
 $(document).ready(function () {
 
   $('#test').click(function() {
       $("#myDropdown").toggle();
+  });
+  $('#test2').click(function() {
+      $("#myDropdown2").toggle();
   });
   $('.paralelogramo').hover(function() {
     $("#myDropdown").hide();
@@ -10210,14 +10217,3 @@ if (Vel) {
       $('.carousel').carousel();
     });
  $('.carousel.carousel-slider').carousel({fullWidth: true});
-
- document.addEventListener('DOMContentLoaded', function() {
-   var elems = document.querySelectorAll('.sidenav');
-   var instances = M.Sidenav.init(elems, options);
- });
-
- // Or with jQuery
-
- $(document).ready(function(){
-   $('.sidenav').sidenav();
- });

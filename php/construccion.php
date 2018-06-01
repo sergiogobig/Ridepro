@@ -11,9 +11,9 @@
     </div>
   </div>
   <div class="row">
-    <div class="col m12 center-align">
+    <div class="col m12 s12">
       <p class="center-align white-text fuenteride2">pronto estara lista!</p>
-      <a class="center-align white-text paralelogramo" href="index.php">Volver al Inicio</a>
+      <p class="center-align" style="cursor: pointer;"><a class=" paralelogramo white-text " href="index.php">Volver al Inicio</a></p>
     </div>
   </div>
 </div>

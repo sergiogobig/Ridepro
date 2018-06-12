@@ -27,6 +27,13 @@
 	}
 }
 
+@media only screen and (min-width: 992px) {
+	.navbar-fixed{
+		height: 79px !important;
+
+	}
+}
+
 
 @media only screen and (max-width: 865px) {
 	.ocultarpequeño2{
@@ -236,8 +243,8 @@ section#contacto a {
 }
 
 .tamañonormal {
-	font-size: 15px;
-	line-height: 26px;
+	font-size: 12px;
+	line-height: 20px;
 }
 
 .tamañonormal p {
@@ -607,13 +614,13 @@ section#contacto a {
 }
 
 .slider-top {
-	top: 18px!important;
+	top: 2px!important;
 	max-height: 500px !important;
 	min-height: 500px !important;
 }
 
 .slider-top2 {
-	top: 18px!important;
+	top: 2px!important;
 	max-height: 390px !important;
 	min-height: 390px !important;
 	margin-bottom: 18px;
@@ -651,6 +658,14 @@ section#contacto a {
 	border: solid black 1px;
 	margin-right: 0.5rem;
 	letter-spacing: 5.5px;
+}
+
+.paralelogramomotofest {
+	-webkit-transform: skew(-20deg);
+	-moz-transform: skew(-20deg);
+	-ms-transform: skew(-20deg);
+	-o-transform: skew(-20deg);
+	transform: skew(-20deg);
 }
 
 .paralelogramo:hover {
@@ -720,6 +735,13 @@ section#contacto a {
 @font-face {
 	font-family: "fuenteride";
 	src: url("../fonts/roboto/Goboldlight.otf")
+}
+
+
+
+@font-face {
+	font-family: "gobolditalicl";
+	src: url("../fonts/roboto/GoboldLightItalic.otf")
 }
 
 @font-face {

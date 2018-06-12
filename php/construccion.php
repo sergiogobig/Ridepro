@@ -12,7 +12,7 @@
   </div>
   <div class="row">
     <div class="col m12 center-align">
-      <p class="center-align white-text fuenteride2">pronto estara lista!</p>
+      <p class="center-align white-text fuenteride2">Pronto estará lista!</p>
       <a class="center-align white-text paralelogramo" href="index.php">Volver al Inicio</a>
     </div>
   </div>

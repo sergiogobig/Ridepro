@@ -20,7 +20,7 @@
             </li>
             <li class="paralelogramo">
                <img class="navbar-item-img" src="../imagenes/RP.png" alt="">
-               <a class="black-text" href="index.php#cursos">CURSOS</a>
+               <a class="black-text" href="construccion.php">CURSOS</a>
             </li>
             <li class="paralelogramo">
                <img class="navbar-item-img" src="../imagenes/RP.png" alt="">
@@ -38,14 +38,14 @@
                <a id="test2" class="dropbtn black-text">EVENTOS</a>
                <div id="myDropdown2" class="oculto">
                   <a  class="black-text" href="motofestiv.php">Motofest IV</a>
-                  <a class="black-text" href="#">RidePro Day</a>
-                  <a  class="black-text" href="#">Kawaschool</a>
+                  <a class="black-text" href="construccion.php">RidePro Day</a>
+                  <a  class="black-text" href="construccion.php">Kawaschool</a>
                </div>
             </li>
             <li>
                <div class="divider"></div>
             </li>
-            <li class=""><a href="https://ridepro.co/php/index.php#cursos">CURSOS</a></li>
+            <li class=""><a href="construccion.php">CURSOS</a></li>
             <li class=""><a href="https://ridepro.co/php/index.php#equipo">EQUIPO</a></li>
          </ul>
          <a href="#" data-target="slide-out" class="sidenav-trigger"><i class="material-icons">menu</i></a>

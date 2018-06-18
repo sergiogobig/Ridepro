@@ -27,16 +27,20 @@
 
 <div style="padding: 2.5rem 5rem 3.5rem 5rem; margin: 0" class="row white paddingresponsivequitar">
    <div class="col s12 m6 center acomodareventos">
+     <a href="../php/construccion.php">
       <div style="display: table; height: 120px; margin-right: auto; margin-left: auto;">
          <div style="display: table-cell; vertical-align: middle;"><img style="height: 250px;" src="../imagenes/logomotofest1.png" alt="" class="acomodarlogoseventos"></div>
       </div>
       <p class="quitarpaddingparrafos" style="color: black; margin-top: -2rem; font-size: 0.75rem; padding: 0 4rem 0 4rem; font-family: parrafos;">El mayor evento de motociclistas para motociclistas donde se integra toda la comunidad motera del país en torno a múltiples actividades y las marcas más importantes</p>
+    </a>
    </div>
    <div class="col s12 m6  center acomodareventos">
+     <a href="../php/construccion.php">
       <div style="display: table; height: 120px; margin-right: auto; margin-left: auto;">
          <div style="display: table-cell; vertical-align: middle;"><img style="height: 250px;" src="../imagenes/logokawaschool.png" alt="" class="acomodarlogoseventos ajustarkawa"></div>
       </div>
       <p class="quitarpaddingparrafos" style="color: black; margin-top: -2rem; font-size: 0.75rem; padding: 0 4rem 0 4rem; font-family: parrafos;">Conduce tu moto Kasawasaki como un profesional, somos la escuela oficial de Kawasaki Colombia.</p>
+    </a>
    </div>
    <!-- <div class="col s4 center">
       <div style="display: table; height: 120px; margin-right: auto; margin-left: auto;">

@@ -1,27 +1,22 @@
-<section id="eventos" style="max-height: 500px !important; min-height: 500px !important" class="ocultarbanner carousel carousel-slider center" data-indicators="true">
-   <div class="carousel-item black-text" href="#one!">
-      <div  class="parallax-container">
-         <!-- <img style="position: absolute; left: 9rem; bottom: -1px; width: 300px;" src="../imagenes/RPB.png" alt=""> -->
-         <!-- <div style="display: table; height: 100%; width: 100%;"> -->
-            <!-- <div><img style="margin-top: 3rem;" width="220px" src="../imagenes/logomoto.png" alt=""></div> -->
-         <!-- </div> -->
-         <div class="parallax"><img width="100%" src="../imagenes/motofestbanner.jpg"></div>
-      </div>
-      <!-- <img style="width: 50px;" src="../imagenes/Recurso 4.png" alt=""> -->
+
+
+<div class="parallax-container slider-top3 ocultarbanner" style="top: 0px !important">
+  <div style="position: absolute; top: 4rem;" class="">
+    <img width="500px" src="../imagenes/logomotofest1.png">
+  </div>
+
+  <div style="position: absolute; left: 31rem;top: 11rem; font-family: vener;" class="">
+  <p style="color: #FF0000; font-family: vener;line-height: 2.5rem;margin-bottom: 0px; font-size: 3rem;">Territorio <br> de motos</p>
+  <div style="border-bottom: 5px solid #FF0000; margin-top:0.7rem; width: 100px;">
+
+  </div>
+  <p style="margin-top: 16px; line-height: 1.2rem"><span style="font-size: 3rem; font-family: vener;">20<span style="color:#FF0000;">+</span>21</span> <br><span style="font-size: 2.06rem;">de Julio</span> <br> <span style="font-size: 1.2rem;"> Autódromo de </span><br><span style="font-size: 1.7rem;">Tocancipá</span> </p>
+  </div>
+
+   <div class="parallax">
+      <img class="imgenparallax" width="100%" src="../imagenes/bannermotofest.png">
    </div>
-   <!-- <div class="carousel-item amber white-text" href="#two!">
-      <h2>Second Panel</h2>
-      <p class="white-text">This is your second panel</p>
-   </div>
-   <div class="carousel-item green white-text" href="#three!">
-      <h2>Third Panel</h2>
-      <p class="white-text">This is your third panel</p>
-   </div>
-   <div class="carousel-item blue white-text" href="#four!">
-      <h2>Fourth Panel</h2>
-      <p class="white-text">This is your fourth panel</p>
-   </div> -->
-</section>
+</div>
 
 <!-- Estos son los tres iconos que nos se que son -->
 

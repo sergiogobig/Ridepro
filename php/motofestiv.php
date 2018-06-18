@@ -17,7 +17,7 @@
   </div>
 
    <div class="parallax">
-      <img class="imgenparallax" width="100%" src="../imagenes/">
+      <img class="imgenparallax" width="100%" src="../imagenes/bannermotofest.png">
    </div>
 </div>
 <section class="row container">
@@ -432,7 +432,7 @@
        <img class="imgenparallax" style="width: 100%;" src="../imagenes/parchadero_red.jpg" alt="">
      </div>
      </div>
-      
+
    </div>
 
 </div>

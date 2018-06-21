@@ -1,6 +1,6 @@
 <section id="contacto" class="row quitarmargeninf margensup-2 ">
    <div style="background-color: #333333; display: table;" class="col s12">
-      <p style="font-family: fuenteride2; color: white; font-size: 1.4rem; text-align: center;">
+      <p class="ocultarfooter" style="font-family: fuenteride2; color: white; font-size: 1.4rem; text-align: center;">
          <img style="display: inline-block; vertical-align: middle; height: 34px" src="../imagenes/numeral.png" alt=""> RideLikeAPro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
          <a href="https://www.facebook.com/RidePro/" target="_blank">
          <img style="display: inline-block; vertical-align: middle; height: 34px" src="../imagenes/facebook.png" alt=""> RidePro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -10,6 +10,18 @@
          <img style="display: inline-block; vertical-align: middle; height: 34px" src="../imagenes/instagram.png" alt=""> RideProColombia
          </a>
       </p>
+
+      <p class="ocultarfooter2" style="font-family: fuenteride2; color: white; font-size: 1.4rem; text-align: center; line-height: 2.8rem;">
+         <img style="display: inline-block; vertical-align: middle; height: 34px" src="../imagenes/numeral.png" alt=""> RideLikeAPro <br>
+         <a href="https://www.facebook.com/RidePro/" target="_blank">
+         <img style="display: inline-block; vertical-align: middle; height: 34px" src="../imagenes/facebook.png" alt=""> RidePro
+       </a>
+       <br class="ocultarbr">
+         <a href="https://www.instagram.com/rideprocolombia" target="_blank">
+         <img style="display: inline-block; vertical-align: middle; height: 34px" src="../imagenes/instagram.png" alt=""> RideProColombia
+         </a>
+      </p>
+
    </div>
    <div class="col s12 fondogris">
       <address class="emailtelefono">

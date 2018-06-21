@@ -19,9 +19,9 @@
       </div>
       <div class="col m10">
 
-         <h4  class="fuenteride2" style="color: red; margin-bottom:0px; letter-spacing: 8px;font-size: 1.7rem">Punto de venta RidePro</h4>
+         <h4  class="fuenteride2 quitarmargensup2" style="color: red; margin-bottom:0px; letter-spacing: 8px;font-size: 1.7rem">Punto de venta RidePro</h4>
          <p class="parrafos white-text" style="font-size: 0.8rem; margin-top: 3px;">Puedes adquirir tus boletas en nuestras oficinas ubicadas en la Carrera 18 No. 84-24 Oficina 101 en la ciudad de Bogotá.</p>
-         <h5 class="fuenteride2 white-text" style="letter-spacing: 4px; font-size: 1.4rem;">Boleta un día: $25.000 &nbsp;&nbsp;&nbsp;    Boleta dos días: $35.000</h5>
+         <h5 class="fuenteride2 white-text" style="letter-spacing: 4px; font-size: 1.4rem;">Boleta un día: $25.000 <br> Boleta dos días: $35.000</h5>
           </div>
 
             </div>
@@ -34,7 +34,7 @@
       </div>
       <div class="col m10">
 
-         <h4  class="fuenteride2" style="color: red; margin-bottom:0px; letter-spacing: 8px;font-size: 1.7rem">Compra online en tuboleta.com</h4>
+         <h4  class="fuenteride2 quitarmargensup2" style="color: red; margin-bottom:0px; letter-spacing: 8px;font-size: 1.7rem">Compra online en tuboleta.com</h4>
          <p class="parrafos white-text" style="font-size: 0.8rem; margin-top: 3px;">Puedes adquirir tus boletas a través de tu boleta.com desde la comodidad de tu casa u oficina.</p>
       </div>
       </div>

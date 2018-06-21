@@ -106,7 +106,7 @@
        <h3 style="margin-top: 0px;letter-spacing: 6px;margin-bottom: 0px; color: red;font-family: fuenteride2; font-size: 1.5rem">Territorio</h3>
        <h1 class="fuenteride2 white-text uppercase"style="margin: 0.2rem 0px 0px 0px;letter-spacing: 12px; font-size: 3rem;">test drive</h1>
        <p class="parrafos" style="text-align: justify; font-size: 0.7rem; max-width: 350px;">En ningún otro evento podrás conducir las motos que encontrarás disponibles en el Test Drive del Motofest IV. Experimenta la emoción de conducir motos de ensueño de las marcas más prestigiosas del mundo: Ducati, KTM, Royal Enfield, Kawasaki, Yamaha , Sym, etc.</p>
-        <a href="#" class="btn-hover" style="">
+        <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdLybHlpOn29EGD6xvbCotlnkxerjnpz2ebpp-zcr1eyt_RJw/viewform" class="btn-hover" style="">
           <div class="paralelogramo tamañonormal" style="float: right;">
              <img style="top: 2.5px;" class="navbar-item-img" src="../imagenes/RP.png" alt="">
              <p class="black-text">Inscríbete</p>
@@ -168,12 +168,12 @@
   <li>-Carreras de supermotard</li>
   <li>-V/S influenciadores</li>
   <li>-Relevos Motodest</li>
-  <li>-Speed attack</li>
+  <li>-Ovalo attack</li>
   <li>-Show de stunt</li>
   <li>-Show de wheelie</li>
 </ul>
 </p>
-        <a href="#" class="btn-hover" style="">
+        <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSd8nkq0J47L3J4_ChcW44gVqaat0jJQl0V9LxmJxky0nxazWg/viewform" class="btn-hover" style="">
           <div class="paralelogramo tamañonormal" style="float: right;">
              <img style="top: 2.5px;" class="navbar-item-img" src="../imagenes/RPN.png" alt="">
              <p class="black-text">Inscríbete</p>
@@ -231,7 +231,7 @@
 
 </ul>
 </p>
-        <a href="#" class="btn-hover" style="">
+        <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdKgdt6fd3amhOhISINw1wMCiQP04Xi6wqyiQz4rlaRS6OfJQ/viewform" class="btn-hover" style="">
           <div class="paralelogramo tamañonormal" style="float: right;">
              <img style="top: 2.5px;" class="navbar-item-img" src="../imagenes/RPB.png" alt="">
              <p class="black-text">Inscríbete</p>
@@ -296,7 +296,7 @@
   <li>-Pit bikes </li>
 </ul>
 </p>
-        <a href="#" class="btn-hover" style="">
+        <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeFwyPYyASxgrEiGxv0piNuw_5z2M-WwWSqy_jWXoUSvoZL3g/viewform" class="btn-hover" style="">
           <div class="paralelogramo tamañonormal" style="float: right;">
              <img style="top: 2.5px;" class="navbar-item-img" src="../imagenes/RPB.png" alt="">
              <p class="black-text">Inscríbete</p>
@@ -352,7 +352,7 @@
 
 </ul>
 </p>
-        <a href="#" class="btn-hover" style="">
+        <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdPUsdKzz8q2qbuZuVy_szPIjAJ_5SAUzomWJfiGtij13TNQA/viewform" class="btn-hover" style="">
           <div class="paralelogramo tamañonormal" style="float: right;">
              <img style="top: 2.5px;" class="navbar-item-img" src="../imagenes/RPB.png" alt="">
              <p class="black-text">Inscríbete</p>
@@ -415,12 +415,7 @@
   <li>-Organizaciones y campañas de prevención</li>
 </ul>
 </p>
-        <a href="#" class="btn-hover" style="">
-          <div class="paralelogramo tamañonormal" style="float: right;">
-             <img style="top: 2.5px;" class="navbar-item-img" src="../imagenes/RPB.png" alt="">
-             <p class="black-text">Inscríbete</p>
-          </div>
-        </a>
+
      </div>
 
      </div>

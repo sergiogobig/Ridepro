@@ -1677,10 +1677,9 @@ section#contacto a {
 }
 
 
-
 @font-face {
 	font-family: "gobolditalicl";
-	src: url("../fonts/roboto/GoboldLightItalic.otf")
+	src: url("../fonts/roboto/goboldlightitalic.otf")
 }
 
 @font-face {

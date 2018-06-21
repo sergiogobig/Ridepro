@@ -14,11 +14,11 @@
 <<<<<<< HEAD
     <div class="col m12 center-align">
       <p class="center-align white-text fuenteride2">Pronto estará lista!</p>
-      <a class="center-align white-text paralelogramo" href="index.php">Volver al Inicio</a>
+      <a class="center-align white-text paralelogramo" href="home">Volver al Inicio</a>
 =======
     <div class="col m12 s12">
       <p class="center-align white-text fuenteride2">pronto estara lista!</p>
-      <p class="center-align" style="cursor: pointer;"><a class=" paralelogramo white-text " href="index.php">Volver al Inicio</a></p>
+      <p class="center-align" style="cursor: pointer;"><a class=" paralelogramo white-text " href="home">Volver al Inicio</a></p>
 >>>>>>> e2331b88f0c712312fc47f0b8bee065fdb8f47c4
     </div>
   </div>

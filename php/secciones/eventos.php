@@ -22,7 +22,7 @@
 
 <div style="padding: 2.5rem 5rem 3.5rem 5rem; margin: 0" class="row white paddingresponsivequitar">
    <div class="col s12 m6 center acomodareventos">
-     <a href="../php/construccion.php">
+     <a href="../404">
       <div style="display: table; height: 120px; margin-right: auto; margin-left: auto;">
          <div style="display: table-cell; vertical-align: middle;"><img style="height: 250px;" src="../imagenes/logomotofest1.png" alt="" class="acomodarlogoseventos"></div>
       </div>
@@ -30,7 +30,7 @@
     </a>
    </div>
    <div class="col s12 m6  center acomodareventos">
-     <a href="../php/construccion.php">
+     <a href="../404">
       <div style="display: table; height: 120px; margin-right: auto; margin-left: auto;">
          <div style="display: table-cell; vertical-align: middle;"><img style="height: 250px;" src="../imagenes/logokawaschool.png" alt="" class="acomodarlogoseventos ajustarkawa"></div>
       </div>

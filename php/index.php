@@ -12,7 +12,7 @@
                   <h2 style="color: #333333; text-align: left; margin-top: 0px; margin-bottom: 2px; font-family: fuenteride2; border-bottom: solid 1px; border-bottom-color: red; width: 208px; padding-bottom: 5px; font-size: 30px;"><img height="34px" src="../imagenes/banderas.png" alt="">Ridepro Day</h2>
                   <p style="text-align: left; margin-top: 8px; margin-bottom: 0px; width: 300px; font-family: parrafos; font-size: 0.85rem;" class="black-text">Mejora tus habilidades de manejo en ciudad o carretera con la ayuda de pilotos profesionales y experimentados en el mejor escenario; el autodromo de Tocancipá. </p>
                   <div style="position: relative;">
-                      <a href="construccion.php"><p style="font-size: 0.7rem;text-align: left; margin-top:0px; margin-bottom: 0px; width: 300px; font-family: parrafos; position: absolute; text-decoration: underline;">Más información.</p></a>
+                      <a href="404"><p style="font-size: 0.7rem;text-align: left; margin-top:0px; margin-bottom: 0px; width: 300px; font-family: parrafos; position: absolute; text-decoration: underline;">Más información.</p></a>
                   </div>
                </div>
             </div>

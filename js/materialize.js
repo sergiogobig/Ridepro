@@ -19,6 +19,28 @@ $(document).ready(function () {
     $('#imagen-inicio').hide();
   });
 
+ // email form
+
+  $('#ajaxform').on('submit', function (event) {
+    event.preventDefault();
+
+    $.ajax({
+      type: 'post',
+      url: 'contact-form.php',
+      data: $('form').serialize(),
+      success: function () {
+        swal(
+          'Gracias!',
+          'Pronto estaremos en contacto contigo!',
+          'success'
+        )
+      }
+    });
+    $(this)[0].reset();
+  });
+
+
+
 });
 
 

@@ -493,37 +493,7 @@
          <img class="imagenautodromo2" src="../imagenes/ChulosRideproday.png" alt="">
       </div>
    </div>
-   <form style="height: 400px;" class="col s12 m6 displaytable quitarheight2">
-      <div class="alinearv">
-         <div class="row nomargenabajo">
-            <div class="input-field col s12">
-               <img class="prefix prefix2" src="../imagenes/cascos2.png" alt="">
-               <input id="icon_prefix" type="text" class="validate">
-               <label class="vener2" for="icon_prefix">Nombre</label>
-            </div>
-            <div class="input-field col s12">
-               <i class="material-icons prefix ">mail_outline</i>
-               <input id="email" type="email" class="validate">
-               <label class="vener2" for="email">Email</label>
-            </div>
-            <div class="input-field col s12">
-               <img class="prefix prefix3" src="../imagenes/banderas2.png" alt="">
-               <textarea id="textarea1" class="materialize-textarea"></textarea>
-               <label class="vener2" for="textarea1">¿Cómo podemos ayudarte?</label>
-            </div>
-
-            <a href="#" class="btn-hover" style="">
-              <div class="paralelogramo tamañonormal" style="float: right; width: 140px;">
-                 <img style="top: 2.5px;" class="navbar-item-img" src="../imagenes/flechasridepro.png" alt="">
-                 <p class="black-text">Envíar</p>
-              </div>
-            </a>
-
-         </div>
-
-
-
-   </form>
+   <?php include("secciones/motofest/contact-form.php"); ?>
    </div>
 </div>
 <!-- * END Content -->
